@@ -1,3 +1,5 @@
+more_itertools
 numpy
+pandas
 pylint
 yapf
